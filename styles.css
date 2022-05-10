@@ -1,0 +1,41 @@
+#title {
+  background-color: #FF4C68;
+}
+
+body{
+   font-family: 'Montserrat';
+}
+
+h1{
+ font-family: 'Montserrat', sans-serif;
+ font-size: 4rem;
+ line-height: 1;
+ color: white;
+}
+.contaner-fluid{
+ padding: 3% 15%;
+}
+
+/* navbar */
+.navbar-brand{
+ font-family: 'ubuntu';
+ font-size: 2rem;
+ font-weight: bold;
+}
+
+.nav-item{
+ padding: 0 15PX;
+}
+
+.nav-link{
+ font-size: 1.5rem;
+}
+
+/* buttons */
+.btn{
+ margin:5% 3% 5% 0;
+}
+.morillo{
+ width: 100%;
+ height: auto%;
+}
